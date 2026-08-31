@@ -1,104 +1,198 @@
-# Hey 👋 I am Shubham Jakate
+<!-- Full-width Image -->
+<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Coding Banner" style="width: 100%; height: auto;">
 
-## 💻 MERN Stack Developer
-
-🎓 Student at **Matoshri College of Engineering**
-
-- 🌍 Based in **Pune, Maharashtra, India**
-- 📧 You can contact me at **Shubhamjakate0505@gmail.com**
-- 🧠 I'm currently exploring **DSA and Backend Technologies**
-- 🚀 I'm interested in building **Full-Stack Web Applications**
-- 🤝 I'm open to collaborating on **interesting and innovative projects**
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github" />
-</p>
-
-### Currently Working With
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- HTML
-- CSS
-
-### Currently Learning
-
-- Data Structures & Algorithms
-- Backend Development
-- REST APIs
-- Authentication & Authorization
-- Advanced JavaScript
-
----
-
-## 🚀 Projects
-
-### 🏋️ Gym Management System
-
-A full-stack Gym Management System built using the MERN stack.
-
-**Technologies:**
-React.js • Node.js • Express.js • MongoDB
-
-**Features:**
-- Admin Management
-- Trainer Management
-- Member Management
-- Authentication & Authorization
-- Attendance Management
-- Personal Training
-- Role-based Access
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://skillicons.dev/icons?i=github" />
+<!-- Centered Heading and Typing SVG -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rudhresh</h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50">
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
+<!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 
-I'm a passionate **MERN Stack Developer** who enjoys building
-web applications and learning new technologies.
+<a href="https://app.daily.dev/iamrudhresh"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=a0b" width="356" alt="RUDHRESH S's Dev Card"  align="right"/></a>
 
-Currently, I'm focusing on improving my **DSA skills** and strengthening
-my **backend development** knowledge.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh"  /> </p>
 
-I believe in learning by building projects and continuously improving
-my development skills.
+- ✌️ Enjoy to do programming and sharing knowledge
 
----
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
 
-⭐ **Thanks for visiting my profile!**
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+
+- 🔭 I’m currently pursing a **B.E. CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+  
+- 💭👯 I’m looking to collaborate on OpenSource Projects
+
+- 📝 I regularly write articles on [Medium](https://iamrudhresh.medium.com/)
+
+- 💡 Contributing to Open Source Projects is always been a goal to me.
+
+- 📫 How to reach me **officialrudhresh@gmail.com**
+
+- 🎯 Checkout my portfolio <a href="https://iamrudhresh.com" target="_blank">**iamrudhresh.com**</a>
+  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nCwNRfuMxGm5b98b368mBZGUwr0yOuJh/view?usp=sharing)
+
+- ⚡ Mindset is Everything!
+
+<br>
+<h3 align="left">CONNECT WITH ME</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<a href="https://twitter.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<a href="https://fb.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<a href="https://instagram.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22327521/rudhresh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<!------------------------------------------------------------------------------------ SKILLS --------------------------------------------------------------------------------------------------->
+<h1 align="center">🚀 SKILLS 🚀 </h1>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Programming Languages</th>
+        <th>Front-End & Back-End</th>
+        <th>Databases</th>
+        <th>Tools/Platforms</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- Programming Languages -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=Python" alt="Python" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=java" alt="latex" width="50" height="50" /><br/>
+              <!-- Add more icons here if needed -->
+            </a>
+          </div>
+        </td>
+        <!-- Front-End & Back-End Development -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" /><br/>
+              <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" /><br/>
+              <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=shadcn" alt="ShadCN" width="50" height="50" />
+            </a>
+          </div>
+        </td>
+        <!-- Databases -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50" /><br/>
+            </a>
+          </div>
+        </td>
+        <!-- Tools/Platforms -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50" /><br/>
+              <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />
+                   <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="50" height="50" />
+                   <img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="50" height="50" />
+            </a>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
+<h1 align="center">🚀 CHECK OUT MY RECENT ARTICLES ON MEDIUM 🚀 </h1>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2" alt="Recent Article 2">
+
+<!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h1 align="center">🚀 TROPHY 🚀 </h1>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px"></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+</div>
+
+<br><br>
+ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
+<h1 align="center">🚀 ACHIEVEMENTS 🚀 </h1>
+
+[![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
+<br><br><br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <a href="https://github.com/iamrudhresh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrudhresh&theme=radical&border=7F3FBF&background=0D1117" alt="Rudhresh's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/iamrudhresh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrudhresh&theme=radical" alt="Rudhresh's GitHub Contribution"/>
+  </a>
+</p>
+<a> <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamrudhresh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamrudhresh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<!------------------------------------------------------------------------------------ SNAKE --------------------------------------------------------------------------------------------------->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!------------------------------------------------------------------------------------ Github Graph --------------------------------------------------------------------------------------------------->
+
+![Rudhresh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrudhresh&custom_title=%20Rudhresh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
