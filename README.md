@@ -130,12 +130,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
-<h1 align="center">🚀 CHECK OUT MY RECENT ARTICLES ON MEDIUM 🚀 </h1>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2" alt="Recent Article 2">
-
-<!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
-
+<!------------------------------------------------------------------------------------ ARTICLES -------------------------------------------------------------------
