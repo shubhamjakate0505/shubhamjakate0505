@@ -2,7 +2,7 @@
 <img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Coding Banner" style="width: 100%; height: auto;">
 
 <!-- Centered Heading and Typing SVG -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rudhresh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shubham</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50">
@@ -10,7 +10,7 @@
 </p>
 
 
-<!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
+
 
 <a href="https://app.daily.dev/iamrudhresh"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=a0b" width="356" alt="RUDHRESH S's Dev Card"  align="right"/></a>
 
@@ -22,21 +22,13 @@
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
-- 🔭 I’m currently pursing a **B.E. CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
+- 🔭 I’m currently pursing a **B.E. CSE at Matoshri College of Engg.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
   
 - 💭👯 I’m looking to collaborate on OpenSource Projects
 
-- 📝 I regularly write articles on [Medium](https://iamrudhresh.medium.com/)
-
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-
-- 📫 How to reach me **officialrudhresh@gmail.com**
-
-- 🎯 Checkout my portfolio <a href="https://iamrudhresh.com" target="_blank">**iamrudhresh.com**</a>
-  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nCwNRfuMxGm5b98b368mBZGUwr0yOuJh/view?usp=sharing)
+- 📫 How to reach me **shubhamjakate0505@gmail.com**
 
 - ⚡ Mindset is Everything!
 
@@ -146,53 +138,4 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2" alt="Recent Article 2">
 
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h1 align="center">🚀 TROPHY 🚀 </h1>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px"></p>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
-</div>
-
-<br><br>
- 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
-<h1 align="center">🚀 ACHIEVEMENTS 🚀 </h1>
-
-[![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
-<br><br><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
-  <a href="https://github.com/iamrudhresh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrudhresh&theme=radical&border=7F3FBF&background=0D1117" alt="Rudhresh's GitHub streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/iamrudhresh">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrudhresh&theme=radical" alt="Rudhresh's GitHub Contribution"/>
-  </a>
-</p>
-<a> <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamrudhresh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamrudhresh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-<!------------------------------------------------------------------------------------ SNAKE --------------------------------------------------------------------------------------------------->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!------------------------------------------------------------------------------------ Github Graph --------------------------------------------------------------------------------------------------->
-
-![Rudhresh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrudhresh&custom_title=%20Rudhresh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
