@@ -50,6 +50,27 @@
 
 <br>
 
+
+### Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
+</p>
+
 <!-- ========================= CONNECT WITH ME ========================= -->
 
 ## Connect With Me
@@ -86,25 +107,7 @@
 />
 
 
-## Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
-</p>
 </div>
 
 <br>
