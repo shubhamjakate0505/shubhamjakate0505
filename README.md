@@ -72,7 +72,7 @@
 
 <p align="left">
   <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://www.instagram.com/mr_shubham0505/" alt="Instagram" width="45" height="45"/>
+    <img src="[https://www.instagram.com/mr_shubham0505/](https://www.instagram.com/mr_shubham0505/)" alt="Instagram" width="45" height="45"/>
   </a>
 
   <a href="YOUR_LINKEDIN_URL" target="_blank">
