@@ -52,30 +52,28 @@
 
 <!-- ========================= CONNECT WITH ME ========================= -->
 
-<h2 align="left">🌐 CONNECT WITH ME</h2>
+## Connect With Me
 
 <p align="left">
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45"/>
+  </a>
 
   <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
   </a>
 
   <a href="YOUR_GITHUB_URL" target="_blank">
-    <img
-      align="center"
-      src="https://skillicons.dev/icons?i=github"
-      alt="GitHub"
-      height="30"
-      width="40"
-    />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
   </a>
 
+  <a href="YOUR_LEETCODE_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="45" height="45"/>
+  </a>
+
+  <a href="YOUR_X_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="45" height="45"/>
+  </a>
 </p>
 
 <br>
@@ -108,10 +106,6 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
 </p>
 </div>
-
-
-
-
 
 <br>
 
