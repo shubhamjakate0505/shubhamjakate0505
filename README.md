@@ -71,39 +71,51 @@
 ## Connect With Me
 
 <p align="left">
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="[https://www.instagram.com/mr_shubham0505/](https://www.instagram.com/mr_shubham0505/)" alt="Instagram" width="45" height="45"/>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/mr_shubham0505/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      alt="Instagram"
+      width="45"
+      height="45"
+    />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shubham-jakate/" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      width="45"
+      height="45"
+    />
   </a>
 
-  <a href="YOUR_GITHUB_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  <!-- GitHub -->
+  <a href="https://github.com/shubhamjakate0505" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      alt="GitHub"
+      width="45"
+      height="45"
+    />
   </a>
 
-  <a href="YOUR_LEETCODE_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="45" height="45"/>
+  <!-- X -->
+  <a href="https://x.com/Code_with_Shubh" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=twitter"
+      alt="X"
+      width="45"
+      height="45"
+    />
   </a>
 
-  <a href="YOUR_X_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="45" height="45"/>
-  </a>
 </p>
-
-<br>
-
-<img
-  src="https://i.imgur.com/dBaSKWF.gif"
-  height="20"
-  width="100%"
-  alt="Divider"
-/>
-
 
 
 </div>
 
-<br>
+
 
