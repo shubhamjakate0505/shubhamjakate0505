@@ -87,236 +87,34 @@
   alt="Divider"
 />
 
-<!-- ========================= SKILLS ========================= -->
 
-<h1 align="center">🚀 SKILLS 🚀</h1>
+## Skills
 
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Programming Languages</th>
-      <th>Front-End & Back-End</th>
-      <th>Databases</th>
-      <th>Tools / Platforms</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-
-      <!-- ================= PROGRAMMING LANGUAGES ================= -->
-
-      <td align="center">
-
-        <img
-          src="https://skillicons.dev/icons?i=js"
-          alt="JavaScript"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=java"
-          alt="Java"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=c"
-          alt="C"
-          width="50"
-          height="50"
-        />
-
-      </td>
-
-      <!-- ================= FRONTEND & BACKEND ================= -->
-
-      <td align="center">
-
-        <img
-          src="https://skillicons.dev/icons?i=html"
-          alt="HTML5"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=css"
-          alt="CSS3"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=javascript"
-          alt="JavaScript"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=react"
-          alt="React"
-          width="50"
-          height="50"
-        />
-
-        <br>
-
-        <img
-          src="https://skillicons.dev/icons?i=nodejs"
-          alt="Node.js"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          alt="Express.js"
-          width="50"
-          height="50"
-        />
-
-      </td>
-
-      <!-- ================= DATABASES ================= -->
-
-      <td align="center">
-
-        <img
-          src="https://skillicons.dev/icons?i=mongodb"
-          alt="MongoDB"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=mysql"
-          alt="MySQL"
-          width="50"
-          height="50"
-        />
-
-      </td>
-
-      <!-- ================= TOOLS / PLATFORMS ================= -->
-
-      <td align="center">
-
-        <img
-          src="https://skillicons.dev/icons?i=git"
-          alt="Git"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=github"
-          alt="GitHub"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=vscode"
-          alt="VS Code"
-          width="50"
-          height="50"
-        />
-
-        <img
-          src="https://skillicons.dev/icons?i=postman"
-          alt="Postman"
-          width="50"
-          height="50"
-        />
-
-        <br>
-
-        <img
-          src="https://skillicons.dev/icons?i=npm"
-          alt="NPM"
-          width="50"
-          height="50"
-        />
-
-      </td>
-
-    </tr>
-  </tbody>
-</table>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/>
+</p>
 </div>
 
-<img
-  src="https://i.imgur.com/dBaSKWF.gif"
-  height="20"
-  width="100%"
-  alt="Divider"
-/>
 
-<!-- ========================= CURRENTLY LEARNING ========================= -->
 
-<h2 align="center">🌱 CURRENTLY LEARNING 🌱</h2>
 
-<p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=nodejs"
-    alt="Node.js"
-    width="50"
-    height="50"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=express"
-    alt="Express.js"
-    width="50"
-    height="50"
-  />
-
-  <img
-    src="https://skillicons.dev/icons?i=mongodb"
-    alt="MongoDB"
-    width="50"
-    height="50"
-  />
-
-</p>
-
-<p align="center">
-  <b>Data Structures & Algorithms • Backend Development • Web Development</b>
-</p>
 
 <br>
 
-<!-- ========================= GITHUB STATS ========================= -->
-
-<h2 align="center">📊 GITHUB STATS</h2>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-
-</p>
-
-<br>
-
-<!-- ========================= FOOTER ========================= -->
 
 <h3 align="center">
   ⭐ Thanks for visiting my profile! ⭐
