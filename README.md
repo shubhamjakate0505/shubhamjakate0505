@@ -23,12 +23,7 @@
   </a>
 </p>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+
 
 <!-- ========================= ABOUT ME ========================= -->
 
@@ -77,7 +72,7 @@
 
 <p align="left">
   <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45"/>
+    <img src="https://www.instagram.com/mr_shubham0505/" alt="Instagram" width="45" height="45"/>
   </a>
 
   <a href="YOUR_LINKEDIN_URL" target="_blank">
